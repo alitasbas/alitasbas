@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali
-- 👀 I was obsessed with "foot"ball, was into coding, used to enjoy video games. At the moment, I hope to be obsessed with anything that has to do with self-development.
+- 👀 I was obsessed with "foot"ball, was into coding, used to enjoy video games. At the moment, I am obsessed with climbing, love Data Science, and enjoy reading and watching movies.
 - 🌱 Studying at the Middle Eastern Technical University. Undergraduate Statistics.
 - 🎈  Multilingual
 - 💞️ Considering to collaborate on Consulting cases and Data Science Projects in the near future.
