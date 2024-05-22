@@ -3,7 +3,7 @@
 - 🌱 Studying at the Middle Eastern Technical University. Undergraduate Statistics.
 - 🎈  Multilingual
 - 💞️ Considering to collaborate on Consulting cases and Data Science Projects in the near future.
-- 📫 Reach me? alininkifa45@gmail.com
+- 📫 Reach me? alitasbas04@gmail.com
 
 <!---
 AliTa-007/AliTa-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
